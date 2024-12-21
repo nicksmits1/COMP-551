@@ -1,9 +1,9 @@
 # COMP-551
 Projects Completed for the McGill course COMP 551 - Introduction to Machine Learning
 
-**Contributors:** Nicolas Smits, Bassem Mikhail
+<u>**Contributors:**</u> Nicolas Smits, Bassem Mikhail
 
-## Assignment 2 Regularization and Model Evaluation (Linear Regression)
+## Assignment 2: Regularization and Model Evaluation (Linear Regression)
 This project focused on implementing linear regression with non-linear Gaussian basis functions to explore model complexity, bias-variance tradeoffs, and the role of regularization. By analyzing synthetic datasets, the study examined how regularization techniques like L1 (Lasso) and L2 (Ridge) impact model performance and generalization. The project also incorporated cross-validation to optimize hyperparameters and assess the balance between underfitting and overfitting.
 
 ## Assignment 3: Classification of Image Data with Multilayer Perceptrons and Convolutional Neural Networks
